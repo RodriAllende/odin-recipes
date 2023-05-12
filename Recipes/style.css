@@ -1,11 +1,8 @@
 
-
 *{
-    background-color: rgb(236, 91, 135);
 
-    }
-
-
+background-color: cornsilk;
+}
 h1{
 
     color: rgb(147, 253, 147);
@@ -19,13 +16,43 @@ h1{
 
 }
 
+.foodintro {
+
+    background-color: cornsilk);
+    border-color: ivory;
+    font-family: 'Roboto', sans-serif ;
+    color: cadetblue;
+   
+} 
+
+.foto1{
+
+    display: block;
+    margin: 0 auto;
+    width: 30%;
+    height: auto;
+
+}
 
 
+.foto2 {
+
+    display: block;
+    margin: 0 auto;
+    width: 30%;
+    height: auto;
+   
 
 
+}
 
+.foto3
+{
 
+    display: block;
+    margin: 0 auto;
+    width: 30%;
+    height: auto;
+   
 
-
-
-
+}
