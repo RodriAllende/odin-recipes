@@ -1,5 +1,5 @@
 
-*{ border: solid 2px red;
+*{ border: solid  red;
 
 background-color: cornsilk;
 }
@@ -28,10 +28,8 @@ h1{
 
      height: 250px;
      width: 350px;
-     margin: 20px;
     
     
-   
 
     }
 
@@ -41,7 +39,8 @@ h1{
  
     height: 250px;
      width: 350px;
-     margin: 20px;
+     
+   
 
     
     
@@ -57,24 +56,13 @@ h1{
 
 height: 250px;
  width: 350px;
- margin: 20px;
- float: left;
-
- 
-
-
 
    
+ 
 
-}
+ span{
 
-span{  
-   float: right;
-
-
-}
-
-div{
-    height: 450px;
- width: 650px;
-}
+  float: inline-end: ;
+  height: 100px;
+  width: 100px;
+ }
